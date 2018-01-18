@@ -2,9 +2,6 @@
   "name": "staempfli/magento2-module-widget-extra-fields",
   "description": "Magento 2 module to add extra field types on widgets",
   "keywords": ["magento2", "module", "widget", "field", "image", "wysiwyg", "file", "upload"],
-  "require": {
-    "php": "~7.0.0"
-  },
   "type": "magento2-module",
   "license": [
     "OSL-3.0",
